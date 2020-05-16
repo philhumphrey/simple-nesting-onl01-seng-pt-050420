@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 
-    programmer_hash["new_hash"] = "new key"
+    programmer_hash[:grace_hopper] = "new key"
     
 end
 
