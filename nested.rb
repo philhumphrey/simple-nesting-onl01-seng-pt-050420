@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 
-    programmer_hash["new_hash"] = "new key"
+    programmer_hash["new_hash"] = ""
     puts programmer_hash
     
 end
